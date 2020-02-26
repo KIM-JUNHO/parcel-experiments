@@ -4,5 +4,13 @@
   "repository": "https://github.com/KIM-JUNHO/parcel-experiments.git",
   "author": "<prpr48@naver.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
 }
