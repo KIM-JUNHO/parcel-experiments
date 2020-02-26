@@ -1,0 +1,9 @@
+{
+  "name": "parcel-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KIM-JUNHO/parcel-experiments.git",
+  "author": "<prpr48@naver.com>",
+  "license": "MIT",
+  "private": false
+}
